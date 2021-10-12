@@ -1,0 +1,9 @@
+{
+    "parent": "//div[contains(@class,'lister-item featureFilm')]",
+    "childs": [
+        ".//h3[contains(@class,'lister-item-header')]",
+        ".//div[contains(@class,'ratings-imdb-rating')]"
+    ],
+    "driver_path": "C:\\Users\\csuon\\Desktop\\python\\SeleniumWebDesignControl\\mozilla\\geckodriver.exe",
+    "web_url": "https://www.imdb.com/user/ur89217979/watchlist?ref_=nv_usr_wl_all_0"
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "//div[contains(@class,'col-12 col-xl-3 col-lg-4 col-md-6 col-sm-6 col-xs-6-product catalogProductList itemlittleProduct')]",
+    "childs": [
+        ".//div[contains(@class,'box-title')]",
+        ".//span[contains(@class,'old-price')]",
+        ".//span[contains(@id,'prices')]"
+    ],
+    "driver_path": "C:\\Users\\csuon\\Desktop\\python\\SeleniumWebDesignControl\\mozilla\\geckodriver.exe",
+    "web_url": "https://www.idefix.com/Katalog/haftanin-firsatlari/50628#/page=1/sort=groups.group.displayorder,asc/categoryid=0/clog=50628/parentId=0/price=-1,-1"
+}
